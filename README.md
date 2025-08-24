@@ -1,2 +1,2 @@
-# This is my General Repo
+# This is my ML Repo
 # Aurthor: Sahil Shankar
